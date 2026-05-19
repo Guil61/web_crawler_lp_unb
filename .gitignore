@@ -1,0 +1,17 @@
+# Binário compilado (go build -o crawler ./cmd)
+/crawler
+crawler.exe
+
+# Artefatos de teste e cobertura
+*.test
+*.out
+coverage.*
+
+# Dependências locais (use go mod)
+/vendor/
+
+# Arquivos de editor / SO
+.DS_Store
+.idea/
+.vscode/
+*.swp
