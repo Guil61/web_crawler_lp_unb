@@ -33,7 +33,7 @@ go build -o crawler ./cmd
 | `-rate`    | `10`            | Limite de requisições por segundo   |
 
 Ctrl+C encerra o programa de forma ordenada. Para rodar com o detector de
-data races: `go run -race ./cmd -url=https://example.com -depth=1`.
+data races: `go run ./cmd -url=https://www.unb.br/ -depth=1 -workers=50`.
 
 ## Estrutura
 
