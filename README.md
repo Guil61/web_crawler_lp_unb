@@ -13,14 +13,14 @@ Precisa de Go 1.25+ instalado (`go version`) e conexão com a internet.
 
 ```bash
 go mod tidy    # baixa a dependência (golang.org/x/net/html)
-go run ./cmd -url=https://example.com -depth=2 -workers=5
+go run ./cmd -url=https://www.unb.br/ -depth=2 -workers=5
 ```
-
+\
 Ou gerando o binário:
 
 ```bash
 go build -o crawler ./cmd
-./crawler -url=https://example.com -depth=2 -workers=5
+./crawler -url=https://www.unb.br/ -depth=2 -workers=5
 ```
 
 ## Flags
