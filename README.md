@@ -1,4 +1,5 @@
 # Web Crawler Concorrente em Go
+# Wiki do projeto
 
 Projeto da disciplina de Paradigmas de Linguagens de Programação.
 
