@@ -2,7 +2,7 @@
  
 **Wiki Técnica do Projeto**
  
-- **Disciplina:** Paradigmas de Linguagens de Programação
+- **Disciplina:**  Linguagens de Programação - Universidade de Brasília
 - **Linguagem:** Go 1.25+
 - **Versão do Documento:** 2.0 — Julho 2026
 ---
