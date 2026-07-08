@@ -1,0 +1,3 @@
+title: Web Crawler Concorrente em Go
+description: Wiki técnica — web crawler de terminal com goroutines, channels e worker pool. Disciplina de Linguagens de Programação, UnB.
+theme: jekyll-theme-cayman
